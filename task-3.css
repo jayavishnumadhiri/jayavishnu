@@ -1,0 +1,52 @@
+.d1{
+    
+    
+    height: 500px;
+    width: 98%;
+}
+.d2{
+    height: 230px;
+    width: 98%;
+    background-color: orange;
+}
+.m1{
+    height: 50px;
+    width: auto;
+    position: absolute;
+    bottom: -35px;
+    left: 260px;
+}
+.m2{
+    height: 50px;
+    width: 50;
+    position: absolute;
+    border-radius: 37px;
+    bottom: -35px;
+    left: 169px;
+}
+.m3{
+    height: 40px;
+    width:auto;
+    position: absolute;
+    border-radius: 54px;
+    bottom: -124px;
+    left: 825px;
+}
+
+body{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+table{
+    border-collapse: collapse;
+    border-color: crimson;
+    text-align: center;
+}
+.a{
+    color: green;
+}
+
+.icon{
+    ;
+    
+}
